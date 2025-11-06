@@ -1,0 +1,25 @@
+{
+  "background_color": "#493e34",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Next EOIC",
+  "short_name": "EOIC",
+  "description": "Progressive Web Application for Next EOIC.",
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#c75f00",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "48x48"
+    }
+  ],
+  "lang": "en"
+}
